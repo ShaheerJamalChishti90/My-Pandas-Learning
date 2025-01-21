@@ -1,0 +1,3 @@
+01: We have to learn how to connect Py with MySQL
+02: We have to learn how to use pandas with MySQL and also for our excel tasks
+02: We have to revise MySQL
